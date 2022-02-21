@@ -7,7 +7,7 @@ I'm Fullstack Developer trainee @Clarusway
 - 🔭 I’m currently working on JavaScript | React | Bootstrap | SASS | HTML | CSS | Python | SQL | Linux | GİT| Django
 - 🌱 I’m currently learning everything  😄
 - 👯 I’m looking to collaborate on more open source projects.
-- <br>
+ <br>
 🔗 &nbsp;**Connect with me**
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-durmu%C5%9F-react-developer/)
 &nbsp;

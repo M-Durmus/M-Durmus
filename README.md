@@ -26,5 +26,5 @@ I'm Fullstack Developer trainee @Clarusway
 <br>
 <br>
 <br>
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=M-Durmus&show_icons=true&theme=radical)
+<!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=M-Durmus&show_icons=true&theme=radical) -->
 <!-- ![snake svg](https://github.com/oguzhanduran/oguzhanduran/blob/output/github-contribution-grid-snake.svg) -->

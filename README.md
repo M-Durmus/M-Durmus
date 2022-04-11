@@ -12,6 +12,7 @@ I'm Fullstack Developer trainee @Clarusway
 &nbsp;
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mdurmus9114@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/M-Durmus) 
+![M-Durmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Durmus&show_icons=true&theme=dark)
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -26,5 +27,6 @@ I'm Fullstack Developer trainee @Clarusway
 <br>
 <br>
 <br>
+
 <!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=M-Durmus&show_icons=true&theme=radical) -->
 <!-- ![snake svg](https://github.com/oguzhanduran/oguzhanduran/blob/output/github-contribution-grid-snake.svg) -->

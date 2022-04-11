@@ -27,3 +27,4 @@ I'm Fullstack Developer trainee @Clarusway
 <br>
 <br>
 
+![snake svg](https://github.com/oguzhanduran/oguzhanduran/blob/output/github-contribution-grid-snake.svg)

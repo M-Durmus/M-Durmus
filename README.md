@@ -2,7 +2,7 @@
 
 <h1 align='center'> I'm Frontend Developer</h1>
 <br>
-I'm Fullstack Developer trainee @Clarusway
+I'm FrontEnd Developer
 
 - 🔭 I’m currently working on JavaScript | React | Bootstrap | SASS | HTML | CSS | Python | SQL | Linux | GİT| Django|Tailwind Css | Material UI | TypeScript
 - 🌱 I’m currently learning everything  😄
